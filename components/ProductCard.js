@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 
 function ProductCard(props) {
   return (
@@ -14,4 +14,5 @@ function ProductCard(props) {
 }
 
 export default ProductCard;
+
 
